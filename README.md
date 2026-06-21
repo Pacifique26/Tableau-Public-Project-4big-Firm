@@ -14,7 +14,7 @@ Utilizing data from multiple years(2020-2025), the dashboard allows users to exp
 The interactive dashboard offers a user-friendly interface where users can filter and manipulate data to gain insights tailored to their specific interests. 
 Dynamic charts and graphs enable users to visualize complex datasets seamlessly, making it easier to identify patterns and anomalies in auditing practices.
 
-<a href="https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1)">Go to the Interactive Dashboard</a>
+<a href="https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1">Go to the Interactive Dashboard</a>
 
 <img width="1130" height="538" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/6b4e141a-34e7-438b-bf3e-52694b8766a1" />
 
