@@ -1,96 +1,189 @@
-# Tableau-Public-Project-4big-Firm
+# 📊 Tableau Public Project: Big 4 Firm Financial Risk & Compliance Analysis
 
-## Introduction
-This Tableau Public Dashboard presents a comprehensive analysis of the financial risk and compliance landscape across major firms in the auditing sector. 
-Utilizing data from multiple years(2020-2025), the dashboard allows users to explore key metrics related to audit effectiveness, client satisfaction, fraud cases, and revenue impact segmented by industry and firm.
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1)
+[![Data Source](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/atharvasoundankar/big-4-financial-risk-insights-2020-2025)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-<img width="1193" height="599" alt="Overview" src="https://github.com/user-attachments/assets/50717905-d8e3-4008-ba6c-80aba1eb82ee" />
+## 🎯 Quick Overview
 
-## Source of data
-- The data have been collected from the site: "Kaggle" as a prepared .CSV file ready for analysis
-- [**Find the source and download the .csv file**](https://www.kaggle.com/datasets/atharvasoundankar/big-4-financial-risk-insights-2020-2025?resource=download).
+This **interactive Tableau Public dashboard** provides a comprehensive analysis of **financial risk and compliance** across the Big 4 auditing firms. Explore audit effectiveness, fraud cases, client satisfaction, and revenue impact across multiple industries (2020-2025).
 
-## Interactive Dashboard
-The interactive dashboard offers a user-friendly interface where users can filter and manipulate data to gain insights tailored to their specific interests. 
-Dynamic charts and graphs enable users to visualize complex datasets seamlessly, making it easier to identify patterns and anomalies in auditing practices.
+**[🔗 View the Interactive Dashboard](https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1)** | **[📖 View the Story Telling Report](https://public.tableau.com/app/profile/pacifique.muzusa/viz/Story_Telling_project_big4/ReportStoryTelling)**
 
-<a href="https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1">Go to the Interactive Dashboard</a>
+---
 
-<img width="1130" height="538" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/6b4e141a-34e7-438b-bf3e-52694b8766a1" />
+## 📸 Dashboard Preview
 
+### Main Dashboard
+![Dashboard Overview](https://github.com/user-attachments/assets/50717905-d8e3-4008-ba6c-80aba1eb82ee)
 
-<a href="https://public.tableau.com/app/profile/pacifique.muzusa/viz/Story_Telling_project_big4/ReportStoryTelling">See the Story Telling</a>
+### Interactive Visualization
+![Tableau Dashboard](https://github.com/user-attachments/assets/6b4e141a-34e7-438b-bf3e-52694b8766a1)
 
-<img width="1199" height="595" alt="Story Telling" src="https://github.com/user-attachments/assets/3ac33f1a-2ba0-44ad-99c2-b63736692629" />
+### Story Telling Report
+![Story Telling](https://github.com/user-attachments/assets/3ac33f1a-2ba0-44ad-99c2-b63736692629)
 
-## Objectives
-The primary objective of this dashboard is to provide stakeholders with an interactive platform for assessing audit performance and compliance risks. By enabling detailed filtering options, the dashboard aims to facilitate informed decision-making and strategic planning based on real-time data insights.
+---
 
-## Techniques Applied
-The dashboard employs dynamic measures and dimensions, allowing users to select various metrics such as 
-- Audit Effectiveness,
-- Client Satisfaction, and
-- Total Revenue Impact.
-Additionally, parameters for choosing:
-- Firms and
-- Industries
-enhance user engagement and data exploration.
-Color gradients are used to visually differentiate between high and low values, enriching the user experience.
+## 🎓 What You'll Discover
 
-## Key Insights
-Key insights from the dashboard reveal trends in revenue impact across different industries, highlight high-risk classifications, and analyze fraud ratios among firms. 
-The data indicates a correlation between the use of AI in auditing and improvements in audit effectiveness and client satisfaction scores, suggesting a potential area for future investment and focus.
+### 📈 Key Metrics Analyzed
+- **Audit Effectiveness** – Performance scores across firms and industries
+- **Client Satisfaction** – Customer satisfaction trends and patterns
+- **Fraud Cases** – Risk classifications and fraud ratio analysis
+- **Revenue Impact** – Financial impact by firm and industry
+- **AI Integration** – Correlation between AI adoption and audit improvements
+- **Employee Workload** – Workforce metrics by industry
 
-## Slides representative
+### 🔍 Interactive Features
+- **Dynamic Filters**: Filter by firm, industry, and year
+- **Drill-Down Analysis**: Explore data at multiple levels of detail
+- **Color-Coded Insights**: Visual differentiation of high/low-risk areas
+- **Comparative Charts**: Side-by-side industry and firm comparisons
 
-Fraud Ratio_High Risk Firm
+---
 
-<img width="1002" height="593" alt="Fraud Ratio_High Risk Firm" src="https://github.com/user-attachments/assets/df855fbe-6ea8-4000-90fa-2a2d39fe3737" />
+## 📊 Key Insights
 
+✅ **AI Correlation**: Strong correlation between AI adoption and improved audit effectiveness & client satisfaction  
+✅ **Industry Trends**: Clear revenue impact variations across different industries  
+✅ **Risk Patterns**: Identifiable high-risk classifications requiring compliance focus  
+✅ **Fraud Analysis**: Fraud ratio analysis reveals patterns in Big 4 firms  
 
-High-Risk Cases by Industry
+---
 
-<img width="1031" height="583" alt="High-Risk Cases by Industry" src="https://github.com/user-attachments/assets/c2021d17-418e-495b-a492-0d9b1ba3483e" />
+## 📁 Data Source
 
+- **Dataset**: Big 4 Financial Risk Insights (2020-2025)
+- **Platform**: Kaggle
+- **Format**: CSV (pre-processed and analysis-ready)
+- **[Download the Data](https://www.kaggle.com/datasets/atharvasoundankar/big-4-financial-risk-insights-2020-2025?resource=download)**
 
-High-Risk Cases by Firm
+---
 
-<img width="1030" height="586" alt="High-Risk Cases by Firm" src="https://github.com/user-attachments/assets/fc9257dd-8c29-4072-a6eb-59c6366b74df" />
+## 🛠️ Techniques & Tools Applied
 
+### Tableau Features
+- Dynamic measures and dimensions
+- Parameter-based filtering (Firms, Industries, Metrics)
+- Color gradient visualization for risk assessment
+- Interactive dashboard design with drill-down capabilities
+- Story-telling narrative for data exploration
 
-Use of AI by Firm
-<img width="1031" height="526" alt="Use of AI by Firm" src="https://github.com/user-attachments/assets/92b925e2-9bbb-4c9c-853b-9bc6ef37efe6" />
+### Data Metrics
+- Audit Effectiveness scoring
+- Client Satisfaction ratings
+- Revenue Impact calculations
+- Fraud ratio analysis
+- High-risk case categorization
 
+---
 
-Audit_Effectiveness by Industry
-<img width="1029" height="587" alt="Audit_Effectiveness by Industry" src="https://github.com/user-attachments/assets/45c70743-38fd-4c61-9271-fbabcc955383" />
+## 📊 Dashboard Slides & Visualizations
 
+### 🔴 Fraud Ratio - High Risk Firms
+![Fraud Ratio](https://github.com/user-attachments/assets/df855fbe-6ea8-4000-90fa-2a2d39fe3737)
 
-Client_Satisfaction by Industry
+### ⚠️ High-Risk Cases by Industry
+![High-Risk by Industry](https://github.com/user-attachments/assets/c2021d17-418e-405b-a492-0d9b1ba3483e)
 
-<img width="1029" height="549" alt="Client_Satisfaction by Industry" src="https://github.com/user-attachments/assets/99fd081d-365e-4cea-866a-6bca18fe190f" />
+### ⚠️ High-Risk Cases by Firm
+![High-Risk by Firm](https://github.com/user-attachments/assets/fc9257dd-8c29-4072-a6eb-59c6366b74df)
 
+### 🤖 AI Adoption by Firm
+![AI by Firm](https://github.com/user-attachments/assets/92b925e2-9bbb-4c9c-851b-9bc6ef37efe6)
 
-Employee workload by Industry
+### 📈 Audit Effectiveness by Industry
+![Audit Effectiveness](https://github.com/user-attachments/assets/45c70743-38fd-4c61-9271-fbabcc915383)
 
-<img width="1034" height="542" alt="Employee workload by Industry" src="https://github.com/user-attachments/assets/6fe275c9-f2b6-45e8-8b55-776ba4fa3a6d" />
+### 😊 Client Satisfaction by Industry
+![Client Satisfaction](https://github.com/user-attachments/assets/99fd081d-365e-4cea-866a-6bca18fe190f)
 
+### 👥 Employee Workload by Industry
+![Employee Workload](https://github.com/user-attachments/assets/6fe275c9-f2b6-45e8-8b55-776ba4fa3a6d)
 
-Fraude cases by Firm
+### 💰 Fraud Cases by Firm
+![Fraud Cases](https://github.com/user-attachments/assets/7ef8b8b3-9dc6-47b2-ba06-ef78aaf6630a)
 
-<img width="1031" height="562" alt="Fraude cases by Firm" src="https://github.com/user-attachments/assets/7ef8b8b3-9dc6-47b2-ba06-ef78aaf6630a" />
+### 💵 Total Revenue Impact by Firm
+![Revenue Impact](https://github.com/user-attachments/assets/cc57ca3e0fd-4672-a7aa-5c12cd672cfb)
 
+---
 
-Total Revenue Impact by Firm
+## 💡 Key Recommendations
 
-<img width="1035" height="543" alt="Total Revenue Impact by Firm" src="https://github.com/user-attachments/assets/8cc57ca3-e0fd-4672-a7aa-5c12cd672cfb" />
+Based on dashboard insights, stakeholders should:
 
+1. **Prioritize AI Integration** – Evidence shows correlation with improved audit effectiveness
+2. **Focus on High-Risk Classifications** – Proactive compliance management for high-risk firms
+3. **Address Compliance Violations** – Strategic intervention can significantly mitigate financial risks
+4. **Monitor Industry Trends** – Leverage industry-specific insights for competitive advantage
 
-## Recommendations
-Based on the insights derived from the dashboard, it is recommended that firms prioritize AI integration in their auditing processes to enhance effectiveness and client satisfaction. 
-Additionally, increasing focus on high-risk classifications and addressing compliance violations proactively can significantly mitigate financial risks.
+---
 
-## Conclusion
-This Tableau Public Dashboard serves as a vital tool for understanding the complexities of financial risk and compliance within the auditing industry. 
-By harnessing the power of interactive data visualization, stakeholders can make evidence-based decisions that drive improvement and foster accountability in audit practices.
+## 🎯 Use Cases
 
+- **Audit Firms**: Benchmark performance against competitors
+- **Compliance Teams**: Monitor regulatory risk and fraud patterns
+- **Executives**: Make data-driven strategic decisions
+- **Investors**: Assess firm financial health and risk profiles
+- **Researchers**: Analyze trends in auditing and compliance
+
+---
+
+## 📚 How to Use This Dashboard
+
+1. **Start with the Overview** – Get familiar with the main metrics and KPIs
+2. **Explore by Firm** – Filter to analyze specific Big 4 auditors
+3. **Analyze by Industry** – Compare performance across different sectors
+4. **Review Time Trends** – Examine changes from 2020-2025
+5. **Access Story Telling** – Follow the guided narrative analysis
+
+---
+
+## 🔗 Resources
+
+- **[Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/pacifique.muzusa/viz/Tableau_project_big4/Dashboard1)**
+- **[Story Telling Report](https://public.tableau.com/app/profile/pacifique.muzusa/viz/Story_Telling_project_big4/ReportStoryTelling)**
+- **[Tableau Creator Profile](https://public.tableau.com/app/profile/pacifique.muzusa)**
+- **[Original Data Source on Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/big-4-financial-risk-insights-2020-2025)**
+
+---
+
+## 👤 About
+
+This project was created to provide data-driven insights into the financial and compliance landscape of Big 4 auditing firms, enabling stakeholders to make informed decisions and drive accountability in audit practices.
+
+**Created by:** [@Pacifique26](https://github.com/Pacifique26)
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Feedback and suggestions are welcome! Feel free to:
+- Open an issue with questions or suggestions
+- Star ⭐ this repository if you find it useful
+- Share this project with your network
+
+---
+
+## ❓ FAQ
+
+**Q: How frequently is the data updated?**  
+A: The dataset covers 2020-2025. For the latest data, refer to the Kaggle source.
+
+**Q: Can I download the raw data?**  
+A: Yes! Download the CSV file from [Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/big-4-financial-risk-insights-2020-2025).
+
+**Q: Can I use this dashboard for my organization?**  
+A: Yes, the dashboard and insights are available on Tableau Public for public viewing and reference.
+
+---
+
+**⭐ If you found this helpful, please star this repository and share it with your network!**
